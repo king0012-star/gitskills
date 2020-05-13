@@ -1,3 +1,4 @@
 Hi git!
 Creating a new brand is quick.
 Creating a new brand is quick & simple.
+Creating a new brand is quick AND simple.
